@@ -1,5 +1,5 @@
 
- #🏠 Bangalore House Price Prediction using Machine Learning
+ # 🏠 Bangalore House Price Prediction using Machine Learning
 
 This project predicts house prices in Bangalore using a machine learning regression model. It showcases end-to-end data science workflow including data cleaning, feature engineering, model training, and a simple web application for real-time predictions.
 
