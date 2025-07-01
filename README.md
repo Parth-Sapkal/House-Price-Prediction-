@@ -1,8 +1,5 @@
-#Predict Bangalore house prices using machine learning with data preprocessing, feature engineering, and a web app UI.
-Sure! Below is a complete and polished `README.md` file you can directly upload to your GitHub repository for your Bangalore House Price Prediction project.
 
-markdown
- 🏠 Bangalore House Price Prediction using Machine Learning
+ #🏠 Bangalore House Price Prediction using Machine Learning
 
 This project predicts house prices in Bangalore using a machine learning regression model. It showcases end-to-end data science workflow including data cleaning, feature engineering, model training, and a simple web application for real-time predictions.
 
